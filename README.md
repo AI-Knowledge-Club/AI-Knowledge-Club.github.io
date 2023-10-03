@@ -1,7 +1,7 @@
 <p align="center">
     <br>
     <a href="https://misisailab.github.io/">
-    <img src="42ed4938-4938-47bd-a93a-455504befbd6.jpeg" width="1000"/>
+    <img src="42ed4938-4938-47bd-a93a-455504befbd6.jpeg" width="1200"/>
     </a>
     <br>
 <p>
