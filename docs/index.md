@@ -12,7 +12,6 @@ redirect_from: /how-to
 Каждое занятие состоит из лекции на 90 минут и самостоятельного изучения материала. 
 
 * [🚀 Программа](/docs/program)
-* [🧠 Слушатели](/docs/students)
 * [📧 Чат](https://t.me/+vEZLTQ9wWT44OTRi)
 * [📧 Канал](https://t.me/+JuVvTYm2i9pjYjg6)
 * [👨‍💻 Github](https://github.com/AI-Knowledge-Club/AI-Knowledge-Club.github.io)
