@@ -20,7 +20,7 @@ redirect_from: /how-to
 
 | Иванов Арсений | Калязин Николай | Братчиков Сергей | Новицкий Лев | Стрижаков Даниил | Афанасьев Максим | Волков Даниил |
 | ------------ | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| <img src="arsy.jpg" width="250"> | <img src="3.jpg" width="250"> | <img src="4.jpg" width="250"> | <img src="levv2.jpg" width="250">  | <img src="danya_strzh.jpeg" width="250">  | <img src="maks.jpeg" width="250">  | <img src="levv2.jpg" width="250">  |
+| <img src="arsy.jpg" width="250"> | <img src="3.jpg" width="250"> | <img src="4.jpg" width="250"> | <img src="levv2.jpg" width="250">  | <img src="danya_strzh.jpeg" width="250">  | <img src="maks.jpeg" width="250">  | <img src="2.jpg" width="250">  |
 | Researcher <br> Tg: <https://t.me/arsmathprog> <br> Tg-канал: <https://t.me/ivarsivars> | Researcher <br> Tg:  <https://t.me/FanatBoba>  |  University 20.35 <br> Tg:  <https://t.me/hivaze>  | Researcher <br> Tg:  <https://t.me/leffffffffffff> | Researcher <br> Tg:  <https://t.me/trifltt> | Researcher <br> Tg:  <https://t.me/mrapplexz> | Researcher <br> Tg:  <https://t.me/wolf_Da> |
 
 Октябрь, 2023 г.
