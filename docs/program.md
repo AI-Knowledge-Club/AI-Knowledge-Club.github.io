@@ -11,7 +11,7 @@ nav_order: 3
 
 ## Занятие 2. (12.10.23 очно Б734) - Базовые понятия ML, начало линейных моделей - Сергей Братчиков <br> [📄 Материалы](https://drive.google.com/file/d/1lZ8kJjZChwZFd2Z5zeUzZ-AxcaO3X7_I/view?usp=sharing) [📼 Видео](https://youtu.be/gmLK-g_BryE?si=QulSgpDBk8VmTI7r)
 
-| Базовые понятия машинного обучения и начало линейных моделей. Познакомимся с библиотеками numpy, pandas и sklearn. | [ODS Lecture](https://habr.com/ru/company/ods/blog/323890/){: .btn} [ШАД Lecture](https://ml-handbook.ru/chapters/linear_models/intro){: .btn} |
+| Базовые понятия машинного обучения и начало линейных моделей. Познакомимся с библиотеками numpy, pandas и sklearn. | [🐍 code](https://colab.research.google.com/drive/1OFdhw5zehgykMyBUqrqDmvxmtMfVGwIy?usp=sharing){: .btn} [ODS Lecture](https://habr.com/ru/company/ods/blog/323890/){: .btn} [ШАД Lecture](https://ml-handbook.ru/chapters/linear_models/intro){: .btn} |
 
 ## Занятие 3. (19.10.23 очно Б734) - Линейные модели - Даниил Стрижаков <br> [📄 Материалы](https://drive.google.com/file/d/1cVFs7HvLyxVo3uh6Hed2VRGeHqDytMWb/view?usp=sharing) [📼 Видео](https://youtu.be/9J9QIcC2Hbo?si=e6cmE3CH8GR5OeS2)
 
