@@ -13,7 +13,7 @@ nav_order: 3
 
 | Лекция: Метрические алгоритмы, метрики задачи классификации, линейная и логистическая регрессия, SVM    | [ODS Lecture](https://habr.com/ru/company/ods/blog/323890/){: .btn} [ШАД Lecture](https://ml-handbook.ru/chapters/linear_models/intro){: .btn} [KNN](https://ml-handbook.ru/chapters/metric_based/intro){: .btn} [ROC-AUC](https://alexanderdyakonov.wordpress.com/2017/07/28/auc-roc-%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C-%D0%BF%D0%BE%D0%B4-%D0%BA%D1%80%D0%B8%D0%B2%D0%BE%D0%B9-%D0%BE%D1%88%D0%B8%D0%B1%D0%BE%D0%BA/){: .btn} |
 
-## Занятие 3. (12.10.23 очно Б734) - Линейные модели - Даниил Стрижаков <br> [📄 Материалы](https://drive.google.com/file/d/1cVFs7HvLyxVo3uh6Hed2VRGeHqDytMWb/view?usp=sharing) [📼 Видео](https://youtu.be/9J9QIcC2Hbo?si=e6cmE3CH8GR5OeS2)
+## Занятие 3. (19.10.23 очно Б734) - Линейные модели - Даниил Стрижаков <br> [📄 Материалы](https://drive.google.com/file/d/1cVFs7HvLyxVo3uh6Hed2VRGeHqDytMWb/view?usp=sharing) [📼 Видео](https://youtu.be/9J9QIcC2Hbo?si=e6cmE3CH8GR5OeS2)
 
 | Что такое машинное обучение? Основные термины, папиры и источники. Соревнования по машинному обучению. | [Kaggle](https://www.kaggle.com/){: .btn} [ODS](https://ods.ai/){: .btn} [Yandex RecSys Cup](https://yandex.ru/cup/ml/?utm_source=yandex&utm_medium=post&utm_campaign=ya_cup){: .btn} [Toloka](https://toloka.ai/challenges/wsdm2023/){: .btn} [AI-Journey DS-Cup](https://dsworks.ru/){: .btn} |
 
