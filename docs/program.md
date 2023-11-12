@@ -21,7 +21,7 @@ nav_order: 3
 
 | На лекции мы расскажем, что такое метрические алгоритмы, зачем они нужны. Узнаем, какие бывают метрики расстояния, научимся делать модели без данных, узнаем, что такое проклятие размерности и разные другие страшные слова. | [🐍 code](https://colab.research.google.com/drive/1qotsfXXBVVG7iHEEWIe0KxMgok1ShShD?usp=sharing){: .btn} |
 
-## Занятие 5. (09.11.23 очно) - Кластеризация и понижение размерности - Иванов Арсений <br> [📄 Материалы](https://drive.google.com/file/d/1TUDeWLsJJPnEkk_2P-wI25k5UQ6oXvot/view?usp=share_link)
+## Занятие 5. (09.11.23 очно) - Кластеризация и понижение размерности - Иванов Арсений <br> [📄 Материалы](https://drive.google.com/file/d/1TUDeWLsJJPnEkk_2P-wI25k5UQ6oXvot/view?usp=share_link) [📼 Видео](https://youtu.be/HXzamzW-68s?si=8tcYp6WP7eE82KtA )
 
 | Лекция: Кластеризация, визуализация и снижение размерности | [ВМК МГУ](https://github.com/Dyakonov/MSUML/blob/main/2022spring/ML091_cluster_202112n____.pdf){: .btn} [Кластеризация](https://scikit-learn.org/stable/modules/clustering.html){: .btn} [Уменьшение размерности](https://scikit-learn.org/stable/modules/unsupervised_reduction.html){: .btn} [Pandas](https://dfedorov.spb.ru/pandas/cheatsheet/Pandas_Cheat_Sheet.pdf){: .btn} [Python Seaborn](https://dfedorov.spb.ru/pandas/cheatsheet/Python_Seaborn_Cheat_Sheet.pdf){: .btn}|
 
