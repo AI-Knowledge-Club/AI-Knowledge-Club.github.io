@@ -25,4 +25,10 @@ nav_order: 3
 
 | Лекция: Кластеризация, визуализация и снижение размерности | [🐍 Homework](https://colab.research.google.com/drive/1J3Yb7c63GmjREb0yJAwUIdjrGn291Qdb?usp=sharing){: .btn} [ВМК МГУ](https://github.com/Dyakonov/MSUML/blob/main/2022spring/ML091_cluster_202112n____.pdf){: .btn} [Кластеризация](https://scikit-learn.org/stable/modules/clustering.html){: .btn} [Уменьшение размерности](https://scikit-learn.org/stable/modules/unsupervised_reduction.html){: .btn} [Pandas](https://dfedorov.spb.ru/pandas/cheatsheet/Pandas_Cheat_Sheet.pdf){: .btn} [Python Seaborn](https://dfedorov.spb.ru/pandas/cheatsheet/Python_Seaborn_Cheat_Sheet.pdf){: .btn}|
 
-## Занятие 6. (16.11.23 очно) - Решающие деревья, ансамбли и случайный лес - Новицкий Лев
+## Занятие 6. (16.11.23 очно) - Решающие деревья, ансамбли и случайный лес - Новицкий Лев <br> [📄 Материалы](https://drive.google.com/file/d/1TUDeWLsJJPnEkk_2P-wI25k5UQ6oXvot/view?usp=share_link) [📼 Видео](https://www.youtube.com/watch?v=oNNcHlKjGVo)
+
+| Лекция: Решающие деревья, ансамбли и случайный лес | [Кластеризация](https://scikit-learn.org/stable/modules/clustering.html){: .btn}|
+
+## Занятие 7. (23.11.23 очно) - Advanced методы в Machine Learning - Калязин Николай <br> [📄 Материалы](https://drive.google.com/file/d/1TUDeWLsJJPnEkk_2P-wI25k5UQ6oXvot/view?usp=share_link) [📼 Видео](ttps://www.youtube.com/watch?v=hvo2AMXwc0k)
+
+| Лекция: Advanced методы в Machine Learning | [Кластеризация](https://scikit-learn.org/stable/modules/clustering.html){: .btn} |
